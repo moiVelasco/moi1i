@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**moi1i/moi1i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Moisés Velasco
 
-Here are some ideas to get you started:
+Atualmente cursando Desenvolvimento de Sistemas na Etec Antonio Furlan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😍 Front-End
+- 🌱 Estou estudando... React Native e JavaScript
+- 🧐 Interessado em aprender Java, Mysql e React
+- 📫 Email: moisesvelasco002@gmail.com
+
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moi1i&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moi1i&layout=compact&theme=tokyonight"/>
+</div>
+
+          
