@@ -6,7 +6,7 @@ Atualmente cursando Desenvolvimento de Sistemas na Etec Antonio Furlan
 
 - 😍 Front-End
 - 🌱 Estou estudando... React Native e JavaScript
-- 🧐 Interessado em aprender Java, Mysql e React
+- 🧐 Interessado em aprender mais Java, Mysql e React
 - 📫 Email: moisesvelasco002@gmail.com
 
 <div>
