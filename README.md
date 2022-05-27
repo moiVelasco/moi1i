@@ -1,7 +1,5 @@
 ### Olá 👋
 
-Meu nome é Moisés Velasco
-
 Atualmente cursando Desenvolvimento de Sistemas na Etec Antonio Furlan
 
 - 😍 Front-End
