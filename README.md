@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Atualmente cursando Desenvolvimento de Sistemas na Etec Antonio Furlan
+Técnico em Desenvolvimento de Sistemas formado na Etec Antonio Furlan
 
 - 😍 Front-End
 - 🌱 Estou estudando... HTML CSS e JavaScript
